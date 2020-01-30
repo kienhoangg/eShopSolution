@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "eShopSolutionDb": "Server=KIENTIF\\KIENHOANG;Database=eShop;UID=sa;PWD=123"
+  }
+
+}
